@@ -1,6 +1,6 @@
 ### Hi, I’m Paige! 🧙‍♀️
 
-**I'm a programmer, [Lighthouse Labs grad](https://www.lighthouselabs.ca/), and avid puzzle-solver.**
+**I'm a programmer, [Lighthouse Labs](https://www.lighthouselabs.ca/) grad, and avid puzzle-solver.**
 
 🌱 &nbsp;I'm currently honing my React skills, exploring UI/UX design, and learning how to use Lottie.  
 🐙 &nbsp;I have a background in motion design and illustration.  
